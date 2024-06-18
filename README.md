@@ -1,1 +1,1 @@
-# proxy
+# proxy使用方法
